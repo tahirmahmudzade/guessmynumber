@@ -1,0 +1,13 @@
+{
+  "name": "js_advanced",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js",
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
